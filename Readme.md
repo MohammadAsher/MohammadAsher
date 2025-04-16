@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+<h3 align="center">🚀 Currently Learning MERN Stack</h3> <p align="center"> I'm currently sharpening my skills with the MERN stack (MongoDB, Express.js, React, Node.js) at Saylani Mass IT Training Center. I'm excited about building full-stack applications and integrating the power of front-end and back-end technologies to create seamless, interactive web experiences. </p> <p align="center"> MERN stack allows me to work with JavaScript throughout the development process, from database to server to UI, and I'm passionate about mastering it for real-world projects! </p> 
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
   I'm Asher, a frontend developer passionate about building stunning, responsive, and user-first web interfaces. I enjoy turning ideas into reality in the browser using clean, efficient code.
