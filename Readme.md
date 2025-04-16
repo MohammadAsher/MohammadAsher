@@ -13,7 +13,7 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-  I'm Asher, a frontend developer from Pakistan passionate about building stunning, responsive, and user-first web interfaces. I enjoy turning ideas into reality in the browser using clean, efficient code.
+  I'm Asher, a frontend developer passionate about building stunning, responsive, and user-first web interfaces. I enjoy turning ideas into reality in the browser using clean, efficient code.
 </p>
 <p align="center">
   My journey began with the basics—HTML & CSS—and evolved into exploring JavaScript, React, and even diving into backend fundamentals. I’m someone who thrives on learning new technologies and collaborating with other curious minds. Let's make the web a better place, one pixel at a time!
